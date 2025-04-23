@@ -7,6 +7,6 @@ function validateLogin() {
         return false; // Prevent form submission (optional)
     } else {
         alert("Invalid username or password!");
-        return false;
+        return false;
     }
 }
